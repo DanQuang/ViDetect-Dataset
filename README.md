@@ -19,6 +19,8 @@ The goal of building the ViDetect dataset is to provide a benchmark for the task
 - 3,400 human-written paragraphs
 - 3,400 AI-generated paragraphs by rewriting human-written paragraphs
 
+![examples](data_creation.png)
+
 ## Contributions
 - Create the ViDetect dataset, a first benchmark Detect AI Generated Text dataset on Vietnamese.
 - Conducting various experiments employing several state-of-the-art language models including ViT5, BARTpho, mDerbertav3, PhoBERT, and Bert-multilingual on the Vi-Detect AI Generated Text dataset.
