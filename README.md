@@ -1,7 +1,7 @@
 Vietnamese AI Generated Text Detection
 =====
 
-
+![examples](model.pdf)
 
 # ViDetect-Dataset
 
