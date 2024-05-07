@@ -35,7 +35,7 @@ If you are interested in the Videtect dataset and our paper, you can cite and re
 
 ## Authors
 - Dan Quang Tran
-  - Email: [21521917@gm.uit.edu.vn](mailto:21521917@gm.uit.edu.vn)
+  - Email: [21521917@gm.uit.edu.vn](mailto:21521917@gm.uit.edu.vn) ([tquangdan03@gmail.com](mailto:tquangdan03@gmail.com))
 
 - Quan Van Nguyen
   - Email: [21521333@gm.uit.edu.vn](mailto:21521333@gm.uit.edu.vn)
@@ -53,9 +53,6 @@ If you are interested in the Videtect dataset and our paper, you can cite and re
 
 - Faculty of Information Science and Engineering, University of Information Technology
 - Vietnam National University, Ho Chi Minh City, Vietnam
-
-### Source
-The source code we use to experiment on the **ViDetect** dataset is [here](https://github.com/DanQuang/Vietnamese-AI-Generated-Text-Detector)
 
 ## Contact
 
