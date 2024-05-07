@@ -29,6 +29,10 @@ The goal of building the ViDetect dataset is to provide a benchmark for the task
 ## Availability
 This **ViDetect** dataset will be available for download after our article is accepted.
 
+## Citation
+If you are interested in the Videtect dataset and our paper, you can cite and read them here (preprint):
+[Vietnamese AI Generated Text Detection](https://arxiv.org/abs/2405.03206)
+
 ## Authors
 - Dan Quang Tran
   - Email: [21521917@gm.uit.edu.vn](mailto:21521917@gm.uit.edu.vn)
